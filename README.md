@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ibrahimsadradin/ibrahimsadradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ibrahim Sadradin.
 
-Here are some ideas to get you started:
+🎓 Computer Science Graduate
+🌱 Currently learning Full-Stack Development
+💼 Background in ERP Systems, Accounting, and IT Support
+🚀 Building web applications and business systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- C#
+- SQL
+- Git & GitHub
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/ibrahim-sadradin-50ab51261
